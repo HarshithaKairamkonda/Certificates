@@ -6,13 +6,13 @@ INTERNET OF THINGS - NPTEL
 
  📄[View Certificate](./NPTEL_IOT.pdf)
 
- GLOBAL CAREER GUIDANCE WEBINAR 
+ Global Career Guidance Webinar
+ 
+  📄[View Certificate](./Global_Career_Guidance_Webinar.pdf)
 
-  📄[View Certificate](./GLOBAL_CARRER_GUIDANCE_WEBINAR.pdf)
+  INTELLECTUAL PROPERTY USTAV 
 
-  INTELLECTUAL PROPORTY USTAV 
-
-   📄[View Certificate](./INTELLECTUAL_PROPORTY_USTAV.pdf)
+   📄[View Certificate](./INTELLECTUAL_PROPERTY_USTAV.pdf)
    
   MATLAB 
 
