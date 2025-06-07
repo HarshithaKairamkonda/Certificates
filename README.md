@@ -8,7 +8,7 @@ INTERNET OF THINGS - NPTEL
 
  Global Career Guidance Webinar
  
-  📄[View Certificate](./Global_Career_Guidance_Webinar.pdf)
+   📄[View Certificate](./Global_Career_Guidance_Webinar.pdf)
 
   INTELLECTUAL PROPERTY USTAV 
 
