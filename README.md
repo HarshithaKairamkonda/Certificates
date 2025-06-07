@@ -8,4 +8,12 @@ INTERNET OF THINGS - NPTEL
 
  GLOBAL CAREER GUIDANCE WEBINAR 
 
- 
+  📄[View Certificate](./GLOBAL_CARRER_GUIDANCE_WEBINAR.pdf)
+
+  INTELLECTUAL PROPORTY USTAV 
+
+   📄[View Certificate](./INTELLECTUAL_PROPORTY_USTAV.pdf)
+   
+  MATLAB 
+
+ 📄[View Certificate](./MATLAB.pdf)
