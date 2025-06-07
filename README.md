@@ -6,4 +6,6 @@ INTERNET OF THINGS - NPTEL
 
  📄[View Certificate](./NPTEL_IOT.pdf)
 
+ GLOBAL CAREER GUIDANCE WEBINAR 
+
  
