@@ -4,4 +4,4 @@ Welcome to my collection of professional certifications, showcasing my dedicatio
 
 INTERNET OF THINGS
 
-[View Certificate](./NPTEL_IOT.pdf)
+ 📄[View Certificate](./NPTEL_IOT.pdf)
